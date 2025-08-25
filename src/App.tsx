@@ -85,7 +85,7 @@ function App() {
             <h3 className="text-xl sm:text-2xl font-bold mb-6 text-white">Urmărește-ne pentru actualizări!</h3>
             <div className="flex flex-wrap justify-center gap-4 sm:gap-6">
               <a 
-                href="https://facebook.com/epicgym" 
+                href="https://facebook.com/epicgymorastie" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all duration-300 transform hover:scale-105"
@@ -94,7 +94,7 @@ function App() {
                 Facebook
               </a>
               <a 
-                href="https://instagram.com/epicgym" 
+                href="https://instagram.com/epicgymorastie" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all duration-300 transform hover:scale-105"
@@ -103,7 +103,7 @@ function App() {
                 Instagram
               </a>
               <a 
-                href="https://x.com/epicgym" 
+                href="https://x.com/epicgymorastie" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all duration-300 transform hover:scale-105"
@@ -112,7 +112,7 @@ function App() {
                 X
               </a>
               <a 
-                href="https://tiktok.com/@epicgym" 
+                href="https://tiktok.com/@epicgymorastie" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="flex items-center px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-all duration-300 transform hover:scale-105"
@@ -159,7 +159,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 mr-2 text-purple-400 flex-shrink-0" />
-                  <span className="text-sm sm:text-base">+40 XXX XXX XXX</span>
+                  <span className="text-sm sm:text-base">+40 723 109 766</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 mr-2 text-purple-400 flex-shrink-0" />
