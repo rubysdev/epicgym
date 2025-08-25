@@ -159,7 +159,7 @@ function App() {
                 </div>
                 <div className="flex items-center">
                   <Phone className="w-5 h-5 mr-2 text-purple-400 flex-shrink-0" />
-                  <span className="text-sm sm:text-base">+40 723 109 766</span>
+                  <span className="text-sm sm:text-base">+40 723109766</span>
                 </div>
                 <div className="flex items-center">
                   <Mail className="w-5 h-5 mr-2 text-purple-400 flex-shrink-0" />
@@ -216,7 +216,8 @@ function App() {
           <div className="border-t border-slate-800 pt-6 sm:pt-8 flex flex-col sm:flex-row justify-between items-center">
             <div className="text-gray-400 text-sm mb-4 sm:mb-0 text-center sm:text-left">
               <p>&copy; 2024 EPIC GYM. Toate drepturile rezervate.</p>
-              <p className="mt-1">CUI: RO########## | J20/###/2024</p>
+              <p className="mt-1">CUI: 51672421 | J2025028847002</p>
+              <p className="mt-1">Cont bancar: RO76BTRLRONCRT0694042601</p>
             </div>
             <div className="flex flex-wrap justify-center gap-4 sm:gap-6 text-sm text-gray-400">
               <a href="/contact" className="hover:text-white transition-colors">Contact</a>
