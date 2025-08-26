@@ -192,7 +192,7 @@ function App() {
                 >
                  
                   <img 
-                    src="/public/anpc-sol.png" 
+                    src="/anpc-sol.png" 
                     alt="ANPC Logo" 
                     className="h-12 sm:h-16 w-auto bg-white p-2 rounded"
                     onError={(e) => {
@@ -200,7 +200,9 @@ function App() {
                       e.currentTarget.nextElementSibling!.style.display = 'block';
                     }}
                   />
-                  
+                  <div style={{ display: 'none' }} className="bg-white text-black p-4 rounded text-center font-bold">
+                    ANPC
+                  </div>
               </a>
               <div className="mb-4">
                 <a 
@@ -211,7 +213,7 @@ function App() {
                 >
                  
                   <img 
-                    src="/public/anpc-sal.png" 
+                    src="/anpc-sal.png" 
                     alt="ANPC Logo" 
                     className="h-12 sm:h-16 w-auto bg-white p-2 rounded"
                     onError={(e) => {
@@ -219,7 +221,9 @@ function App() {
                       e.currentTarget.nextElementSibling!.style.display = 'block';
                     }}
                   />
-                  
+                  <div style={{ display: 'none' }} className="bg-white text-black p-4 rounded text-center font-bold">
+                    Sol. Litigiilor
+                  </div>
                 </a>
               </div>
               
