@@ -190,8 +190,30 @@ function App() {
                   rel="noopener noreferrer"
                   className="block hover:opacity-80 transition-opacity"
                 >
+                 
                   <img 
-                    src="https://anpc.ro/images/anpc_logo.png" 
+                    src="/public/anpc-sol.png" 
+                    alt="ANPC Logo" 
+                    className="h-12 sm:h-16 w-auto bg-white p-2 rounded"
+                    onError={(e) => {
+                      e.currentTarget.style.display = 'none';
+                      e.currentTarget.nextElementSibling!.style.display = 'block';
+                    }}
+                  />
+                  <div style={{ display: 'none' }} className="bg-white text-black p-4 rounded text-center font-bold">
+                    ANPC
+                  </div>
+              </a>
+              <div className="mb-4">
+                <a 
+                  href="https://consumer-redress.ec.europa.eu/index_en" 
+                  target="_blank" 
+                  rel="noopener noreferrer"
+                  className="block hover:opacity-80 transition-opacity"
+                >
+                 
+                  <img 
+                    src="/public/anpc-sal.png" 
                     alt="ANPC Logo" 
                     className="h-12 sm:h-16 w-auto bg-white p-2 rounded"
                     onError={(e) => {
@@ -204,6 +226,7 @@ function App() {
                   </div>
                 </a>
               </div>
+              
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li><a href="https://anpc.ro" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">ANPC - Autoritatea Națională pentru Protecția Consumatorilor</a></li>
                 <li><a href="https://ec.europa.eu/consumers/odr/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">Platforma ODR</a></li>
@@ -225,9 +248,11 @@ function App() {
               <a href="/parteneri" className="hover:text-white transition-colors">Parteneri</a>
             </div>
           </div>
+          </div>
         </div>
       </footer>
     </div>
+    
   );
 }
 

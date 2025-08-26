@@ -29,87 +29,84 @@ function PoliticaConfidentialitate() {
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">1. Informații Generale</h2>
             <p className="mb-4">
-              EPIC GYM respectă confidențialitatea datelor personale și se angajează să protejeze 
-              informațiile pe care ni le furnizați. Această politică explică cum colectăm, 
-              utilizăm și protejăm datele dumneavoastră personale.
+              1. Cine suntem
+
+Operatorul datelor tale este ONX FITNESS SRL, CUI 51672421, sediu str. Principala, nr. 297, Romos, Hunedoara.
+Website: www.epicgym.ro
+ | Email: contact@epicgym.ro
+
+2. Ce date colectăm
+
+Date de identificare: nume, prenume, CNP (unde este necesar)
+
+Date de contact: telefon, email
+
+Date pentru abonamente: plăți, istoricul serviciilor
+
+Date tehnice: IP, cookie-uri, acces în aplicație
+
+Imagini video (CCTV) în incinta sălilor pentru siguranță
+
+Opțional: date biometrice (dacă folosești autentificare prin amprentă)
+
+3. Cum folosim datele
+
+Crearea și administrarea contului tău
+
+Facturare și procesarea plăților
+
+Accesul în sală și în aplicația Epic Gym
+
+Trimiterea notificărilor și ofertelor (cu acordul tău)
+
+Siguranță și prevenirea fraudelor
+
+Nu vindem datele tale. Le partajăm doar cu furnizori de servicii (ex. plăți online, software) conform legii.
+
+4. Cookie-uri
+
+Folosim cookie-uri pentru funcționalitatea site-ului și statistici. Poți afla mai multe în Politica de Cookie-uri
+.
+
+5. Drepturile tale
+
+Ai dreptul să:
+
+accesezi, corectezi sau ștergi datele
+
+îți retragi consimțământul
+
+soliciți portabilitatea datelor
+
+depui plângere la ANSPDCP
+
+Pentru exercitarea drepturilor, scrie-ne la contact@epicgym.ro
+.
+
+6. Securitate
+
+Folosim măsuri tehnice și organizatorice pentru protejarea datelor. Accesul la săli se face prin sisteme sigure (card, QR, RFID, sau biometrie unde e cazul).
+
+7. CCTV
+
+În sălile noastre există camere video pentru siguranța clienților și a personalului.
+
+8. Actualizări
+
+Politica poate fi modificată. Versiunea actualizată va fi publicată pe www.epicgym.ro
+.
             </p>
           </section>
 
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">2. Date Colectate</h2>
-            <p className="mb-4">Colectăm următoarele tipuri de date personale:</p>
-            <ul className="list-disc list-inside space-y-2 ml-4">
-              <li>Informații de identificare (nume, prenume, CNP)</li>
-              <li>Date de contact (adresă, telefon, email)</li>
-              <li>Informații medicale relevante pentru activitatea fizică</li>
-              <li>Date despre utilizarea serviciilor noastre</li>
-              <li>Imagini din camerele de supraveghere (pentru securitate)</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">3. Scopul Prelucrării</h2>
-            <p className="mb-4">Utilizăm datele personale pentru:</p>
-            <ul className="list-disc list-inside space-y-2 ml-4">
-              <li>Furnizarea serviciilor de fitness</li>
-              <li>Gestionarea abonamentelor și plăților</li>
-              <li>Comunicarea cu membrii</li>
-              <li>Îmbunătățirea serviciilor oferite</li>
-              <li>Respectarea obligațiilor legale</li>
-              <li>Marketing direct (cu acordul dumneavoastră)</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">4. Partajarea Datelor</h2>
-            <p className="mb-4">
-              Nu vindem, închiriem sau partajăm datele personale cu terți, cu excepția:
-            </p>
-            <ul className="list-disc list-inside space-y-2 ml-4">
-              <li>Furnizorilor de servicii care ne ajută în activitate</li>
-              <li>Autorităților competente, când legea o impune</li>
-              <li>În cazul unei fuziuni sau achiziții</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">5. Securitatea Datelor</h2>
-            <p className="mb-4">
-              Implementăm măsuri tehnice și organizatorice adecvate pentru a proteja 
-              datele personale împotriva accesului neautorizat, modificării, divulgării 
-              sau distrugerii.
-            </p>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">6. Drepturile Dumneavoastră</h2>
-            <p className="mb-4">Aveți următoarele drepturi:</p>
-            <ul className="list-disc list-inside space-y-2 ml-4">
-              <li>Dreptul de acces la datele personale</li>
-              <li>Dreptul de rectificare</li>
-              <li>Dreptul la ștergerea datelor</li>
-              <li>Dreptul la restricționarea prelucrării</li>
-              <li>Dreptul la portabilitatea datelor</li>
-              <li>Dreptul de opoziție</li>
-            </ul>
-          </section>
-
-          <section>
-            <h2 className="text-2xl font-bold text-white mb-4">7. Perioada de Păstrare</h2>
-            <p>
-              Păstrăm datele personale doar pentru perioada necesară îndeplinirii 
-              scopurilor pentru care au fost colectate sau conform obligațiilor legale.
-            </p>
-          </section>
 
           <section>
             <h2 className="text-2xl font-bold text-white mb-4">8. Contact</h2>
             <p>
               Pentru exercitarea drepturilor sau întrebări despre această politică:
               <br />
-              Email: privacy@epicgym.ro
+              Email: contact@epicgym.ro
               <br />
-              Telefon: +40 XXX XXX XXX
+              
               <br />
               Adresă: Str. Armatei, nr. 1, etaj 2, Complex Palia, Orăștie, Hunedoara
             </p>
