@@ -200,9 +200,7 @@ function App() {
                       e.currentTarget.nextElementSibling!.style.display = 'block';
                     }}
                   />
-                  <div style={{ display: 'none' }} className="bg-white text-black p-4 rounded text-center font-bold">
-                    ANPC
-                  </div>
+                  
               </a>
               <div className="mb-4">
                 <a 
@@ -221,9 +219,7 @@ function App() {
                       e.currentTarget.nextElementSibling!.style.display = 'block';
                     }}
                   />
-                  <div style={{ display: 'none' }} className="bg-white text-black p-4 rounded text-center font-bold">
-                    ANPC
-                  </div>
+                  
                 </a>
               </div>
               
